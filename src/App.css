@@ -1,0 +1,17 @@
+.carousel-image {
+    width: 100%;
+    height: 400px !important;
+}
+
+.cardBorder {
+    border-left: 3px solid rgb(117, 117, 230) !important;
+}
+
+.cardBorder:hover {
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color: white !important;
+    transition: all ease-in 0.7s;
+    border-left: none !important;
+
+}
