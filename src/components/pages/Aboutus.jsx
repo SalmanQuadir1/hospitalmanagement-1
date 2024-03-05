@@ -8,7 +8,7 @@ const Aboutus = () => {
     return (
         <>
             <div className='header-title text-center my-4 mx-2  p-4 bg-light rounded-lg'>
-                <h2 className='text-dark'>About Us</h2>
+                <h2 className='text-dark'>About Us </h2>
             </div>
             <div className='container'>
                 <div className=" bg-light rounded p-4  mt-5 row">
